@@ -1,6 +1,6 @@
 package com.thrivesup.ctl;
 
-public class Test {
+public class Demo {
 	
 	public static void main(String[] args) {
 		
