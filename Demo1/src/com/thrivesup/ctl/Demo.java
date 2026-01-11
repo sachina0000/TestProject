@@ -4,7 +4,7 @@ public class Demo {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("this is test class");
+		System.out.println("this is Demo class");
 	}
 
 }
