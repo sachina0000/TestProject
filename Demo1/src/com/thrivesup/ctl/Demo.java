@@ -6,7 +6,7 @@ public class Demo {
 		
 		System.out.println("this is Demo class");
 		
-		System.out.println("the new line is added in Demo class");
+		
 	}
 
 }
